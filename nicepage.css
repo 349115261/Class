@@ -33682,12 +33682,20 @@ a.u-link.u-text-hover-grey-90:hover {
 }
 
 .u-header .u-image-1 {
-  margin: 16px auto 16px -6px;
+  margin: 16px auto 0 -6px;
 }
 
 .u-header .u-logo-image-1 {
   max-width: 76px;
   max-height: 76px;
+}
+
+.u-header .u-menu-1 {
+  margin: -56px 75px 36px auto;
+}
+
+.u-header .u-nav-2 {
+  font-size: 1.25rem;
 }
 @media (max-width: 1199px) {
   .u-header .u-image-1 {
